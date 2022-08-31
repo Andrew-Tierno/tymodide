@@ -9,7 +9,7 @@
 [![Build Status](https://circleci.com/gh/pyodide/pyodide.png)](https://circleci.com/gh/pyodide/pyodide)
 [![Documentation Status](https://readthedocs.org/projects/pyodide/badge/?version=stable)](https://pyodide.readthedocs.io/?badge=stable)
 
-Pyodide is a Python distribution for the browser and Node.js based on WebAssembly.
+Pyodide is a Python distribution for the browser and Node.js based on WebAssembly. Technically, now I'm a contributor, right? :P
 
 ## What is Pyodide?
 
