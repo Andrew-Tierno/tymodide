@@ -42,9 +42,10 @@ def _parse_package_subset(query: Optional[str]) -> Set[str]:
         "regex",
         "fpcast-test",
         "sharedlib-test-py",
+        "unthrow",
+        "numpy"
     }
     core_scipy_packages = {
-        "numpy",
         "scipy",
         "pandas",
         "matplotlib",
